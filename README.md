@@ -136,6 +136,7 @@ others are external.
 | Python   | igo95862                      | internal   |
 | Rust     | José Luis Cruz                | [dankamongmen/libnotcurses-sys](https://github.com/dankamongmen/libnotcurses-sys) |
 | Zig      | Jakub Dundalek                | [dundalek/notcurses-zig-example](https://github.com/dundalek/notcurses-zig-example) |
+| Raku     | Matt Doughty                  | [m-doughty/Notcurses-Native](https://github.com/m-doughty/Notcurses-Native) |
 
 ## Included tools
 
